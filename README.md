@@ -244,18 +244,6 @@ git push origin feature-name
 
 Then create a Pull Request.
 
-# UI Preview
-
-
-
-
-
-
-
-
-
-
-
 👨‍💻 Developer
 
 Developed with ❤️ using Flutter
