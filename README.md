@@ -217,14 +217,18 @@ Then create a Pull Request.
 
 # UI Preview
 
-<img width="720" height="1458" alt="WhatsApp Image 2026-05-11 at 4 07 17 PM" src="https://github.com/user-attachments/assets/90a22875-fe79-4a60-9e2d-0a6baf17d25c" />
-<img width="720" height="1459" alt="WhatsApp Image 2026-05-11 at 4 08 18 PM" src="https://github.com/user-attachments/assets/06899a82-bcde-4239-8287-efeddf93af35" />
+## 📱 UI Preview
 
-<img width="720" height="1458" alt="WhatsApp Image 2026-05-11 at 4 08 54 PM" src="https://github.com/user-attachments/assets/9c485197-1d62-4606-a9e5-f58eeb286615" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/90a22875-fe79-4a60-9e2d-0a6baf17d25c" width="220" alt="Home Screen"/>
+  <img src="https://github.com/user-attachments/assets/06899a82-bcde-4239-8287-efeddf93af35" width="220" alt="Dashboard Screen"/>
+  <img src="https://github.com/user-attachments/assets/9c485197-1d62-4606-a9e5-f58eeb286615" width="220" alt="AI Chat Screen"/>
+</p>
 
-<img width="720" height="1452" alt="WhatsApp Image 2026-05-11 at 4 09 16 PM" src="https://github.com/user-attachments/assets/64b9f556-fc78-4102-bec1-319de6676a3f" />
-
-<img width="714" height="1449" alt="WhatsApp Image 2026-05-11 at 4 09 54 PM" src="https://github.com/user-attachments/assets/9f922dbd-20e3-4346-a06d-c5df49338e53" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64b9f556-fc78-4102-bec1-319de6676a3f" width="220" alt="Speaking Practice Screen"/>
+  <img src="https://github.com/user-attachments/assets/9f922dbd-20e3-4346-a06d-c5df49338e53" width="220" alt="Profile Screen"/>
+</p>
 
 
 
