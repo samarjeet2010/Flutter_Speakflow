@@ -156,6 +156,35 @@ The app helps learners practice a language in a real-world style environment.
 
 ---
 
+ # UI Preview 
+
+ ## 📱 UI Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/90a22875-fe79-4a60-9e2d-0a6baf17d25c" width="220" alt="Home Screen"/>
+  <img src="https://github.com/user-attachments/assets/06899a82-bcde-4239-8287-efeddf93af35" width="220" alt="Dashboard Screen"/>
+  <img src="https://github.com/user-attachments/assets/9c485197-1d62-4606-a9e5-f58eeb286615" width="220" alt="AI Chat Screen"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64b9f556-fc78-4102-bec1-319de6676a3f" width="220" alt="Speaking Practice Screen"/>
+  <img src="https://github.com/user-attachments/assets/9f922dbd-20e3-4346-a06d-c5df49338e53" width="220" alt="Profile Screen"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 📂 Project Structure
 
 ```bash
@@ -217,9 +246,7 @@ Then create a Pull Request.
 
 # UI Preview
 
-## 📱 UI Preview
 
-<img width="720" height="1458" alt="WhatsApp Image 2026-05-11 at 4 07 17 PM" src="https://github.com/user-attachments/assets/d2f8498f-5732-41de-9a4c-3d6fc53a9183" />
 
 
 
@@ -235,6 +262,8 @@ Developed with ❤️ using Flutter
 
 # Author
 Samar jeet
+
+
 
 
 
